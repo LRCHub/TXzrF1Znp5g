@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "MR.TAXI",
+  "base_artist": "Girls' Generation",
+  "createdAt": "2026-01-02T06:44:39.686719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_Mr._Taxi_(Steve_Aoki_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/02_MR.TAXI_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_MR.TAXI_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MR.TAXI (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_MR.TAXI_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Mr._Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_Mr.Taxi_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/07_Mr.Taxi_(Steve_Aoki_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey, Mr. Taxi",
+      "artist": "The Osmonds",
+      "has_synced": false,
+      "path": "select/08_Hey,_Mr._Taxi_The_Osmonds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MR.TAXI (Korean Ver.)",
+      "artist": "소녀시대 (GIRLS' GENERATION)",
+      "has_synced": true,
+      "path": "select/09_MR.TAXI_(Korean_Ver.)_소녀시대_(GIRLS'_GENERATION).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr Taxi - Japanese Version",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/10_Mr_Taxi_-_Japanese_Version_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MR. TAXI (Original Title : Mr. Taxi)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/11_MR._TAXI_(Original_Title___Mr._Taxi)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls’ Generation",
+      "has_synced": false,
+      "path": "select/12_Mr._Taxi_Girls’_Generation.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MR.TAXI (Korean Ver.)",
+      "artist": "소녀시대",
+      "has_synced": true,
+      "path": "select/13_MR.TAXI_(Korean_Ver.)_소녀시대.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr,Taxi",
+      "artist": "少女時代",
+      "has_synced": true,
+      "path": "select/14_Mr,Taxi_少女時代.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/15_Mr._Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/16_Mr._Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mr.Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/17_Mr.Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "MR. TAXI",
+      "artist": "소녀시대 (Girls' Generation)",
+      "has_synced": true,
+      "path": "select/18_MR._TAXI_소녀시대_(Girls'_Generation).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_01_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_02_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_03_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_04_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_05_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Mr.Taxi",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_06_Mr.Taxi_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Mr.Taxi",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_07_Mr.Taxi_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "MR.TAXI",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_08_MR.TAXI_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Mr.Taxi",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_09_Mr.Taxi_少女時代.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Mr.Taxi",
+      "artist": "少女時代",
+      "has_synced": false,
+      "path": "select/pl_10_Mr.Taxi_少女時代.txt"
+    }
+  ]
+}
